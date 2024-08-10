@@ -17,7 +17,7 @@ const About = () => {
         <div className="about-right">
           <div className="about-para">
             <p>
-              I am a skilled front end developer with three years of experience
+              I am a skilled front end developer with 1+ years of experience
               in creating user-friendly, responsive websites.
             </p>
             <p>
@@ -57,7 +57,7 @@ const About = () => {
       </div>
       <div className="about-achievements">
         <div className="about-achievement">
-          <h1>3+</h1>
+          <h1>1+</h1>
           <p>YEARS OF EXPERIENCE</p>
         </div>
         <hr />
