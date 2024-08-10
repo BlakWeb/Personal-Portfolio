@@ -17,7 +17,7 @@ const footer = () => {
         <div className="footer-top-left">
           <img src={logo} alt="" />
           <p>
-            I am a front-end web developer from Nigeria with 3 years of
+            I am a front-end web developer from Nigeria with 1+ years of
             experienced.
           </p>
         </div>
@@ -54,7 +54,7 @@ const footer = () => {
               <FontAwesomeIcon icon={faWhatsapp} size="2x" />
             </a>
           </div>
-          <span>&copy; 2024</span> Jacob Oshala Yahaya. All rights reserved.
+          <span>&copy; 2024</span> Oshala Jacob Yahaya. All rights reserved.
         </p>
         <div className="footer-bottom-right">
           <p>Term of Services</p>
