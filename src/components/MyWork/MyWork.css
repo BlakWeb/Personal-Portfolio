@@ -88,7 +88,7 @@
 
   .mywork-title h1 {
     padding: 0;
-    font-size: 45px;
+    font-size: 35px;
     font-weight: 600;
   }
 
@@ -99,8 +99,8 @@
 
   .mywork-container {
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 30px;
+    grid-template-columns: auto;
+    gap: 20px;
   }
 
   .mywork-container h3 {
