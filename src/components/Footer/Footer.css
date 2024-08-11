@@ -164,6 +164,7 @@ a.github:hover {
   }
 .footer-bottom{
   flex-direction: column;
+  gap: 30px;
 }
   
 }
