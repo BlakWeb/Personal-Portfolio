@@ -139,6 +139,6 @@
 
   .services-container {
      grid-template-columns: auto;
-    gap: 25px;
+    gap: 30px;
   }
 }
