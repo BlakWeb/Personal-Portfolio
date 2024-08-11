@@ -106,7 +106,7 @@
 @media(max-width:768px) {
   .hero img {
     margin-top: 110px;
-    width: 400px;
+    width: 150px;
   }
 
   .hero h1 {
@@ -133,12 +133,12 @@
 
   .hero-connect {
     margin-bottom: 15px;
-    padding: 15px 25px;
+    padding: 8px 18px;
     border-radius: 40px;
   }
 
   .hero-resume {
-    padding: 15px 25px;
+    padding: 8px 18px;
     border-radius: 40px;
   }
 
