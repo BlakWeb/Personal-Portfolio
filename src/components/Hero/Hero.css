@@ -6,7 +6,7 @@
 }
 
 .hero img {
-  width: 500px;
+  width: 250px;
   border-radius: 50%;
   margin-top: 150px;
 }
@@ -106,7 +106,7 @@
 @media(max-width:768px) {
   .hero img {
     margin-top: 110px;
-    width: 150px;
+    width: 400px;
   }
 
   .hero h1 {
