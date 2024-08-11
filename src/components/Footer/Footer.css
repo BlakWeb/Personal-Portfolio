@@ -162,5 +162,9 @@ a.github:hover {
   .footer-email-input{
     gap: 30px;
   }
+.footer-bottom{
+  flex-direction: column;
+}
+  
 }
   
