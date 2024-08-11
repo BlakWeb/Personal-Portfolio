@@ -123,6 +123,7 @@
   }
 
   .hero-action {
+    width: 100%;
     gap: 14px;
     font-size: 18px;
     font-weight: 500;
