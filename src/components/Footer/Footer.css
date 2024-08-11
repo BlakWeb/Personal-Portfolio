@@ -156,4 +156,11 @@ a.github:hover {
     font-size: 18px;
     padding: 13px 50px;
   }
+  .footer-top-right{
+    flex-direction: column;
 }
+  .footer-email-input{
+    gap: 30px;
+  }
+}
+  
