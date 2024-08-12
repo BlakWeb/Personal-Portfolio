@@ -37,6 +37,7 @@
   width: 380px;
   height: 280px;
   transition: 0.5s;
+  object-fit: cover;
   cursor: pointer;
 }
 
