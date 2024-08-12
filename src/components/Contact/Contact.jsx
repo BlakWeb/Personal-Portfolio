@@ -40,7 +40,7 @@ const Contact = () => {
           <h1>Let's talk</h1>
           <p>
             I am always available to take on new projects, feel free to send me
-            message about any project you me work on. You can contact me via
+            message about any project you want me to work on. You can contact me via
             email or phone call anytime.
           </p>
           <div className="contact-details">
